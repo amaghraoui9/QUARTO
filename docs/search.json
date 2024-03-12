@@ -11,7 +11,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "About this site"
   },
   {
     "objectID": "projects.html",
@@ -19,5 +19,47 @@
     "title": "Projects",
     "section": "",
     "text": "Lab 1\nLab 2"
+  },
+  {
+    "objectID": "about.html#highly-motivated-biology-student-at-university-of-massachusetts-amherst-looking-for-internship-in-the-biotech-and-life-sciences-industry.-unique-combination-of-in-depth-scientific-background-and-research-acumen.",
+    "href": "about.html#highly-motivated-biology-student-at-university-of-massachusetts-amherst-looking-for-internship-in-the-biotech-and-life-sciences-industry.-unique-combination-of-in-depth-scientific-background-and-research-acumen.",
+    "title": "About",
+    "section": "Highly motivated biology student at University of Massachusetts-Amherst looking for internship in the biotech and life sciences industry. Unique combination of in-depth scientific background and research acumen.",
+    "text": "Highly motivated biology student at University of Massachusetts-Amherst looking for internship in the biotech and life sciences industry. Unique combination of in-depth scientific background and research acumen."
+  },
+  {
+    "objectID": "Home.html",
+    "href": "Home.html",
+    "title": "quarto5",
+    "section": "",
+    "text": "Welcome to my website"
+  },
+  {
+    "objectID": "About.html",
+    "href": "About.html",
+    "title": "About",
+    "section": "",
+    "text": "Image of Adam Maghraoui enjoying the sun at a beach in Morocco"
+  },
+  {
+    "objectID": "About.html#highly-motivated-biology-student-at-university-of-massachusetts-amherst-looking-for-internship-in-the-biotech-and-life-sciences-industry.-unique-combination-of-in-depth-scientific-background-and-research-acumen.",
+    "href": "About.html#highly-motivated-biology-student-at-university-of-massachusetts-amherst-looking-for-internship-in-the-biotech-and-life-sciences-industry.-unique-combination-of-in-depth-scientific-background-and-research-acumen.",
+    "title": "About",
+    "section": "Highly motivated biology student at University of Massachusetts-Amherst looking for internship in the biotech and life sciences industry. Unique combination of in-depth scientific background and research acumen.",
+    "text": "Highly motivated biology student at University of Massachusetts-Amherst looking for internship in the biotech and life sciences industry. Unique combination of in-depth scientific background and research acumen."
+  },
+  {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Lab 1\nLab 2\nLab 3\nLab 4"
+  },
+  {
+    "objectID": "Presentation.html",
+    "href": "Presentation.html",
+    "title": "Presentation",
+    "section": "",
+    "text": "This is my presentation page."
   }
 ]

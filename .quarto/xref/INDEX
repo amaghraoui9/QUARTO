@@ -7,5 +7,20 @@
   },
   "projects.qmd": {
     "projects.html": "c40bd385"
+  },
+  "Lab.qmd": {
+    "Lab.html": "a01ba43c"
+  },
+  "Projects.qmd": {
+    "Projects.html": "0c913852"
+  },
+  "About.qmd": {
+    "About.html": "b45fa445"
+  },
+  "Presentation.qmd": {
+    "Presentation.html": "a4ad4bd5"
+  },
+  "Home.qmd": {
+    "Home.html": "90f43176"
   }
 }

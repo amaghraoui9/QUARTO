@@ -8,9 +8,15 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - href: projects.qmd
+      - href: About.qmd
+        text: About
+      - href: Projects.qmd
+        text: Projects
+      - href: Lab.qmd
         text: Lab
+      - href: Presentation.qmd
+        text: Presentation
+      
 
 format:
   html:
